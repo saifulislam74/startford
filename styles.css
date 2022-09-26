@@ -1,0 +1,240 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.header{
+  background:rgb(240, 220, 5) ;
+  padding: 70px;
+  height: 600px;
+  padding-bottom: 70px;
+}
+.star{
+  color: green;
+  font-weight: bolder;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.logo-header{
+  display: flex;
+}
+
+.logo{
+  width:50px;
+}
+.head{
+  margin-top: -200px;
+  font-size: 50px !important;
+  width: 60px;
+  height: 60px;
+  margin-top: 80px !important;
+  margin-left: 500px;
+  color: forestgreen;
+  border: 2px solid forestgreen;
+  padding:10px 0px 10px 35px ;
+  
+  
+  border-radius: 100%;
+}
+.get{
+  display: flex;
+}
+.get-place{
+/* width: 500px; */
+margin-top: 80px;
+font-size: 30px;
+font-weight: -100;
+}
+button{
+  padding: 8px 40px;
+  margin-top: 50px;
+  color: white;
+  background: green;
+  font-weight: bolder;
+  border: none;
+  border-radius: 15px;
+}
+
+.metting{
+  width: 600px;
+  margin-left: 130px;
+  margin-top: 30px;
+}
+.svg{
+  margin-top: -290px;
+}
+
+.main-first-section{
+  display: flex;
+  padding: 70px 200px;
+}
+.camera-img{
+  width: 400px;
+  
+}
+
+.company-profile{
+  margin-left: 100px;
+  margin-top: 80px;
+}
+.company-profile h1{
+  font-size: 40px;
+  font-weight: bolder;
+  color: rgb(7, 238, 7);
+}
+.company-profile p{
+  font-size: 20px;
+  margin-top: 20px;
+  color: rgb(97, 95, 95);
+}
+.Our-Service{
+  text-align: center;
+  padding: 70px 0px;
+  font-size: 25px;
+  color: rgb(10, 239, 10);
+}
+
+.section-three{
+  display: flex;
+}
+.card{
+  width: 100px;
+}
+.payment{
+  width: 100px;
+}
+.welcome{
+  width: 100px;
+}
+.start{
+  background:rgb(217, 241, 182) ;
+  text-align: center;
+  padding: 90px 79px;
+}
+
+.start h1{
+  margin-top: 30px;
+  font-size: 30px;
+  color: green;
+}
+.start p{
+  margin-top: 30px;
+  font-size: 19px;
+}
+.wealth{
+  background:rgb(204, 231, 164) ;
+  text-align: center;
+  padding: 90px 79px;
+}
+.wealth h1{
+  margin-top: 30px;
+  font-size: 30px;
+  color: green;
+}
+.wealth p{
+  margin-top: 30px;
+  font-size: 19px;
+}
+.tax{
+  background:rgb(194, 226, 145) ;
+  text-align: center;
+  padding: 90px 79px;
+}
+.tax h1{
+  margin-top: 30px;
+  font-size: 30px;
+  color: green;
+}
+.tax p{
+  margin-top: 30px;
+  font-size: 19px;
+}
+
+.download{
+  font-size: 40px !important;
+  width: 60px;
+  height: 60px;
+  margin-top: 80px !important;
+  margin-left: 90px;
+  color: forestgreen;
+  border: 2px solid forestgreen;
+  border-radius: 60px;
+}
+.nancy{
+  display: flex;
+  padding:20px 80px;
+}
+.nancy h3{
+  color: green;
+}
+.clients{
+  margin-top: 90px;
+  padding: 0px 40px;
+}
+.clients h1{
+  text-align: center;
+  padding-bottom: 30px;
+  font-size: 30px;
+  color: green;
+}
+.test{
+  margin-top: 9px;
+  margin-left: 150px;
+  font-size: x-large;
+  word-spacing: 5px;
+  color: gray;
+}
+.down{
+  width: 150px;
+  margin-left: 550px;
+  margin-top: 120px;
+  padding-bottom: 30px;
+}
+
+.wendy{
+  text-align: center;
+}
+.wendy h1{
+  font-size: 30px;
+  word-spacing: 2px;
+  font-weight: normal;
+}
+.wendy p{
+  margin-top: 15px;
+  font-size: 12px;
+  word-spacing: 2px;
+  font-weight: bolder;
+  color: green;
+  padding-bottom: 80px;
+}
+.foot{
+  padding-bottom: 60px;
+  background:rgb(240, 220, 5) ;
+}
+.let{
+  text-align: center;
+  margin-top: -130px;
+}
+.let h1{
+  font-size: 30px;
+  font-weight: normal;
+  color: green;
+}
+.foot h3{
+  font-weight: normal;
+  color: green;
+}
+.mail{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.address{
+  margin-top: 30px;
+  text-align: center;
+}
+.number{
+  margin-top: 30px;
+  text-align: center;
+}
